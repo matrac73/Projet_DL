@@ -19,7 +19,7 @@ cd ./path/to/repository/
 ```
 5 . Cloner le dépot git :
 ``` bash
-git clone ssh://***ID***@***IP***/opt/git/sls_sleipnir_det.git
+git clone adresse_git
 ```
 6 . Se placer dans le répertoire qui viens d'être crée :
 ``` bash
