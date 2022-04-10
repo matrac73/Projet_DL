@@ -1,0 +1,11 @@
+flask==2.0.1
+plumbum==1.7.0
+numpy==1.19.5
+ipython==7.16.1
+pillow==8.4.0
+matplotlib==3.3.4
+scipy==1.5.4
+shapely==1.7.1
+tensorflow==1.15.0
+opencv-python==4.5.3.56
+screeninfo==0.8
